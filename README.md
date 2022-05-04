@@ -6,7 +6,7 @@ The Hyperbolic Time Chamber (精神と時の部屋 Seishin to Toki no Heya, lite
 
 When using the entryway to the Hyperbolic Time Chamber through The Lookout on Earth, one year inside the chamber is the equivalent to one day on the outside. A step over the threshold of the training area brings one immediately into ten times Earth's gravity (the same as that of Planet Vegeta, Planet Zoon, and King Kai's Planet). The air thickness is about a quarter of Earth's and the temperature fluctuates the deeper one goes into the training area. 
 
-Besides that is possible to practice and write codes in PHP.
+Besides that is possible to practice and write test codes in PHP.
 
 ### Install
 
