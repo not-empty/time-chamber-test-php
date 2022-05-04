@@ -1,0 +1,21 @@
+{
+    "require-dev": {
+        "phpunit/phpunit": "^9.5.10",
+        "mockery/mockery": "^1.4.4"
+    },
+    "scripts": {
+        "test": "phpdbg -qrr vendor/bin/phpunit --configuration phpunit.xml -d memory_limit=1024M"
+    },
+    "autoload": {
+        "psr-4": {
+            "Tests1Doc\\": "src/"
+        }
+    },
+    "require": {
+        "nesbot/carbon": "^2.57",
+        "predis/predis": "^1.1",
+        "kiwfy/ulid-php": "^2.0",
+        "illuminate/container": "^9.9",
+        "illuminate/database": "^9.10"
+    }
+}
