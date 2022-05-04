@@ -29,5 +29,5 @@ composer install
 
 Run all the unit test with this command (inside container)
 ```sh
-composer run test
+composer test
 ```
