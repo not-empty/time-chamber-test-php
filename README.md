@@ -1,5 +1,8 @@
 # Time Chamber Test
 
+[![Latest Version](https://img.shields.io/github/v/release/kiwfy/time-chamber-test.svg?style=flat-square)](https://github.com/kiwfy/time-chamber-test/releases)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 ![Time Chamber Test](.github/time_chamber.png?raw=true)
 
 The Hyperbolic Time Chamber (精神と時の部屋 Seishin to Toki no Heya, literal meaning "Spirit and Time Room") is a location that can be accessed through different doorways throughout Universe 7.
