@@ -20,7 +20,7 @@ docker build -t kiwfy/time-chamber-test .
 
 2. Access the container
 ```sh
-docker run -v ${PWD}/:/var/www/html -it kiwfy/time-chamber-test bash
+docker run -e XDEBUG_MODE=coverage -v ${PWD}/:/var/www/html -it kiwfy/time-chamber-test bash
 ```
 
 3. Verify if all dependencies is installed (if need anyelse)
